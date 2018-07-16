@@ -9,7 +9,7 @@
 
 module Text.PrettyImpl where
 
-import qualified Dequeue as Q (Queue, cons, empty, matchHead, matchLast)
+import qualified Data.Queue as Q (Queue, cons, empty, matchHead, matchLast)
 
 -- The abstract data type Doc represents pretty documents.
 data Doc = Doc (Tokens -> Tokens)
