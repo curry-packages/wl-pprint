@@ -3,8 +3,7 @@
 ---  by Olaf Chitil.
 ---
 --- @author Sebastian Fischer, Bjoern Peemoeller, Jan Tikovsky
---- @version October 2017
---- @category general
+--- @version December 2018
 ------------------------------------------------------------------------------
 
 module Text.PrettyImpl where
